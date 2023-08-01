@@ -1,0 +1,277 @@
+h2 {
+    color: aquamarine;
+}
+
+p {
+    font-family: cursive;
+    text-align: center;
+}
+
+body {
+    background-color: honeydew;
+    height: 10px;
+}
+
+button {
+    background-color: rgb(101, 224, 64);
+    color: rgb(208, 255, 0);
+}
+
+div {
+    color: rgb(45, 210, 122);
+}
+
+section {
+    color: #00ffd0;
+}
+
+#one {
+    color: rgb(87, 161, 161);
+    font-weight: 900;
+font-size: 15px;}
+
+#two {
+    color: rgb(139, 3, 250);
+    font-size: 15px;
+
+}
+
+#an {
+    background-color: #0044ff;
+}
+
+.two {
+    background-color: rgb(127, 168, 255);
+}
+
+#select {
+    background-color: #0044ff;
+}
+
+button {
+    color: #00ff55;
+}
+
+.classical {
+    color: rgb(255, 140, 0);
+    background-color: azure;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#new {
+    color: coral;
+    background-color: cornflowerblue;
+}
+
+#part1 {
+    text-align: initial;
+    color: #0044ff;
+}
+
+#part2 {
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+
+#new01 {
+    color: aliceblue;
+    background-color: violet;
+}
+
+#anchor {
+    text-decoration: none;
+    color: tomato;
+}
+
+#anchor2 {
+    color: tomato;
+    background-color: black;
+}
+
+.art {
+    font-style: inherit;
+    font-weight: normal;
+}
+
+#low {
+    font-weight: 100;
+}
+.ttt {
+
+
+/* Styling for the home button */
+
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 30px;
+    background-color: #3498db;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+
+
+/* Hover effect */
+
+    background-color: #2980b9;
+    transform: scale(1.05);
+
+
+/* Active effect */
+
+    background-color: #1f6698;
+    transform: scale(0.95);
+}
+
+#hh{
+    text-align: center;
+    color: bisque;
+    background-attachment: local;
+    text-transform: uppercase;
+}
+#none
+{
+    background-color: black;
+    color: chocolate;
+    font-size: larger;
+   text-align: center;
+}
+#out1
+{
+    color: aliceblue;
+    background-color: crimson;
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height:30px;
+    width: 60px;
+}
+#align
+{
+    text-align: center;
+    font-size: larger;
+}
+#out2
+{
+    color: whitesmoke;
+    background-color: rgb(210, 211, 212);
+    font-size: larger;
+    font-family: monospace;
+}
+#out3
+{
+    color: rgb(0, 140, 255);
+    background-color: rgb(0, 253, 190);
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#net
+{
+    color: brown;
+    background-color: tomato;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    font-weight: 100;
+}
+#spo
+{
+    color: #021107;
+    background-color: #00ff55;
+    font-size: large;
+    font-family:  Calibri, 'Trebuchet MS', sans-serif;
+}
+#outer1 {
+    height: 180px;
+    width: 100%; /* Add width property */
+}
+
+#inner
+{
+    height: 1270px;
+    width: 1080px;
+}
+.kuul {
+    color: #ff0000;
+    background-color: #00ff55;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black; /* Added border-width and border-style */
+}
+
+#haa {
+    color: rgb(61, 129, 129);
+    border-width: 15px;
+    border-style: ridge; /* Corrected property */
+    height: 20px;
+    width: 200px;
+    border-color: #12ff61;
+    background-color: antiquewhite;
+    text-align: center;
+}
+#newone
+{
+    background-color: #3498db;
+    border-color: #3498db;
+    color: #fff;
+    border-radius: 25px;
+    font-size: larger;
+    font-weight: bolde;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+padding: 10px 10px 10px 10px;
+margin: 122px 213px 3px 
+
+}
+#amazon
+{
+    color: #ffe600;
+    text-align: inherit;
+    font-weight: bolder;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+#mainamazon{
+    background-color: #021107;
+    padding-bottom: 10px;
+}
+#amazon2{
+    color: #ffffff;
+    font-weight: bolde;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+ 
+}
+#amazon00
+{
+    color: #ffe600;
+    text-align: inherit;
+    font-weight: bolder;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+#mainamazon00{
+    background-color: #021107;
+    padding-bottom: 10px;
+}
+#amazon200{
+    color: #ffffff;
+    font-weight: bolde;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+ 
+}
+#mee
+{
+    color: #00ff55;
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    border-width: 11211212120px;
+    border-radius: 50%;
+    line-height: 120px;
+text-align: center;
+
+}
